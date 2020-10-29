@@ -1,5 +1,3 @@
-# Basic WebMap Geographical Plot using folium
-
 ```python
 import numpy as np
 import pandas as pd
